@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "938442072350",
+    "project_id": "machinetest-ed88e",
+    "storage_bucket": "machinetest-ed88e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938442072350:android:bf04864dcb774228b1e90f",
+        "android_client_info": {
+          "package_name": "com.example.machinetest21"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzOUvBinzrukkPSZV7yxCCaIG6BuT-tTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
